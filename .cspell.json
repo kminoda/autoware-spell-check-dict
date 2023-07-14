@@ -39,8 +39,6 @@
     "**/package-lock.json",
     "**/public/**",
     "**/reports*/**",
-    "**/map/**",
-    "**/planning/**",
     "**/common/**",
     "**/control/**",
     "**/docs/**",
