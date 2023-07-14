@@ -38,7 +38,22 @@
     "**/log/**",
     "**/package-lock.json",
     "**/public/**",
-    "**/reports*/**"
+    "**/reports*/**",
+    "**/map/**",
+    "**/planning/**",
+    "**/common/**",
+    "**/control/**",
+    "**/docs/**",
+    "**/evaluator/**",
+    "**/launch/**",
+    "**/localization/**",
+    "**/perception/**",
+    "**/planning/**",
+    "**/sensing/**",
+    "**/simulator/**",
+    "**/system/**",
+    "**/tools/**",
+    "**/vehicles/**"
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
