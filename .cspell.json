@@ -51,7 +51,12 @@
     "**/simulator/**",
     "**/system/**",
     "**/tools/**",
-    "**/vehicles/**"
+    "**/vehicles/**",
+    "**/*.cpp",
+    "**/*.hpp",
+    "**/*.py",
+    "**/*.md",
+    "**/*.launch.xml"
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
